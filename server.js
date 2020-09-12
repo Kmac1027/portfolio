@@ -1,7 +1,7 @@
-// 'use strict';
+'use strict';
 
-// this will bring in my express libraray
-// const express = require('express');
+// // this will bring in my express libraray
+// // const express = require('express');
 
 // // bring in the dotenv library
 // // the job of this library is to find the .env file and get the variables out of it so we can use them in our JS file
