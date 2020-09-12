@@ -11,7 +11,7 @@ require('dotenv').config();
 const app = express();
 
 // this lets us serve a website from a directory
-app.use(express.static('/index.html'));
+// app.use(express.static('/index.html'));
 
 // the dotenv library lets us grab the PORT var from the .env using the magic words process.env.variableName
 const PORT = process.env.PORT;
