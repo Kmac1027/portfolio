@@ -1,27 +1,12 @@
+
 {
-  "name": "portfolio",
+  "name": "starter-code",
   "version": "1.0.0",
-  "description": "Number and name of feature: ________________________________",
+  "description": "Prologue by HTML5 UP\r html5up.net | @ajlkn\r Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx nodemon server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Kmac1027/portfolio.git"
-  },
-  "author": "Kevin McNeil",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Kmac1027/portfolio/issues"
-  },
-  "homepage": "https://github.com/Kmac1027/portfolio#readme",
-  "dependencies": {
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "nodemod": "^2.6.1",
-    "nodemon": "^2.0.4"
-  },
-  "devDependencies": {}
+  "author": "",
+  "license": "ISC"
 }
