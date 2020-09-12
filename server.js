@@ -17,7 +17,7 @@ app.use(express.static('/index.html'));
 const PORT = process.env.PORT;
  
 app.get('/', function (request, response) {
-  response.send('/index.html');
+  response.send('hello');
 });
 
 // app.get('/bananas', (request, response) => {
